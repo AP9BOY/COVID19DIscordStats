@@ -30,7 +30,7 @@ while True:
         timestamp='now'
     )
     embed.set_thumbnail(url="https://bit.ly/37hmLsE")
-    embed.set_footer(text="Made by RyZwer#0001", icon_url="https://bit.ly/2ZhwLxA") #Please don't remove "Made by RyZwer#0001", thanks!
+    embed.set_footer(text="Made by RyZwer#0001", icon_url="https://bit.ly/2NJJbvQ") #Please don't remove "Made by RyZwer#0001", thanks!
     hook.send(embed=embed)
     time.sleep(json['send_after'])
 
